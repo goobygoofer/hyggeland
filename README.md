@@ -1,5 +1,12 @@
 # hyggeland
 
+Ok so this should definitely work with Python 3.9+
+Just make sure you have Python installed (I actually don't think it has to be in PATH)
+Make sure hyggelandBulk.py and Hyggelandmain.py are in same dir
+hyggelandBulk.py contains some splash screen stuff and player crafting class
+Threw all that in there just to save space in the main file
+Will eventually rewrite the entire project and have everything in its own little container
+
 Mine rocks, chop trees, loot corpses, battle rogue werewolves, berate the town drunk. All is permitted in Hyggeland.
 Player starts with a few test things in inventory, manually put there towards end of main.py (going to change name to name.py)
 
